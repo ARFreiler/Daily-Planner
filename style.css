@@ -13,6 +13,11 @@ textarea {
   padding: 10px;
 }
 
+span {
+  text-align: center;
+  line-height: 80px;
+}
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -69,3 +74,4 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
