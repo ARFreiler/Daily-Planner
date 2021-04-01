@@ -42,7 +42,7 @@ Open index.html in Chrome.
 
 [Repository](https://github.com/ARFreiler/Daily-Planner)
 
-[]()
+[Deployed Page](https://arfreiler.github.io/Daily-Planner/)
 
 ![](https://user-images.githubusercontent.com/75546695/113236141-57173d80-9272-11eb-89b5-3c266e60ece4.png)
 
