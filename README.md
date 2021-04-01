@@ -22,11 +22,29 @@ Open index.html in Chrome.
 
 ## Credits
 
+[W3Schools](https://www.w3schools.com)
+
+[MDN Documents](https://developer.mozilla.org/en-US/docs/Learn)
+
+[W3C](https://www.w3.org/)
+
+[JavaScript Tutorial](https://javascripttutorial.net/)
+
+[Moment.js](https://momentjs.com/)
+
+[FontAwesome](https://fontawesome.com/)
+
+[Bootstrap](https://getbootstrap.com/)
+
+[Google Fonts](https://fonts.google.com/)
+
 ## Links
 
 [Repository](https://github.com/ARFreiler/Daily-Planner)
 
 []()
+
+![](https://user-images.githubusercontent.com/75546695/113236141-57173d80-9272-11eb-89b5-3c266e60ece4.png)
 
 ## License
 
