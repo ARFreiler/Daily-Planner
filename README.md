@@ -44,7 +44,7 @@ Open index.html in Chrome.
 
 [Deployed Page](https://arfreiler.github.io/Daily-Planner/)
 
-![](https://user-images.githubusercontent.com/75546695/113236141-57173d80-9272-11eb-89b5-3c266e60ece4.png)
+![](https://user-images.githubusercontent.com/75546695/113512482-d3d83f00-9532-11eb-9b17-b6129c0269e6.png)
 
 ## License
 
